@@ -1,0 +1,1 @@
+/Users/jakubgawronski/Desktop/Studia/TU_Dresden/SS2023/Programming/Code/hello_world/target/debug/hello_world: /Users/jakubgawronski/Desktop/Studia/TU_Dresden/SS2023/Programming/Code/hello_world/src/main.rs
